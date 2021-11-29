@@ -1,2 +1,1 @@
-# rock_paper_scissors
-a simple command line application
+A simple command-line application.
